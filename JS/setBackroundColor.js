@@ -12,7 +12,7 @@ function useColorPicker(){
     let col = inpColorPicker.value
     console.log(col);
     bdy.style.backgroundColor = col;
-    pbCol.style.color = col;
+    pbCol.style.color = col;t
     inpColorValue = bdy.style.backgroundColor;
 }
 
